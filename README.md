@@ -63,7 +63,7 @@ Open an Issue or Discussion and share your suggestions.
 - Write meaningful commit messages.
 - Keep Pull Requests focused.
 - Help others learn.
-- Follow GitHub Community Guidelines.
+- Follow GitHub Community Guidelines. 
 
 ---
 
