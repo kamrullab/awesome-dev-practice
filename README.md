@@ -1,4 +1,4 @@
-# 🚀 Awesome Dev Practice
+ 🚀 Awesome Dev Practice
 
 Welcome to **Awesome Dev Practice**!
 
@@ -71,4 +71,4 @@ Open an Issue or Discussion and share your suggestions.
 
 Everyone is welcome to contribute.
 
-Happy Coding! ❤️ 
+Happy Coding! ❤️ .
